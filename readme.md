@@ -2,6 +2,9 @@
 
 This is a copy of the [Aduni Course Work](https://en.wikipedia.org/wiki/ArsDigita#ArsDigita_Foundation_and_ArsDigita_University)
 
+This was a tuition free MIT experiment. The videos and coursework give a glimpse of the quality of teaching and problem solving at MIT in 1990s.
+
+
 ## Lecture Videos
 
 **The Structure and Interpretation of Computer Programs**
